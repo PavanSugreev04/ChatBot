@@ -5,7 +5,7 @@
 <p id="description">AI Chatbot is an intelligent conversational agent built with React for a dynamic and interactive UI, leveraging Gemini API 1.5 Flash for real-time, AI-driven responses. The application is hosted on Vercel for seamless deployment and utilizes environment variable management to ensure secure API communication. The backend is enhanced with additional libraries, ensuring a fast and reliable experience for users interacting with the chatbot.</p>
 
 <h2>🚀 Demo</h2>
-[ChatBot](https://chat-bot-phi-flax.vercel.app)
+https://chat-bot-phi-flax.vercel.app
 
   
   
